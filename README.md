@@ -1,4 +1,4 @@
-# Tips-Calculator
+# Tips-Calculator😁
 
 the tip calculator is a useful tool for anyone going to a restaurant, bar or any other place where tips are anticipated. It's easy to make mistakes when we calculate things in our minds. Calculate your tip with our tool to save time and ensure accuracy
 
