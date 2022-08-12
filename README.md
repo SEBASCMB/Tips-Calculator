@@ -5,7 +5,7 @@ the tip calculator is a useful tool for anyone going to a restaurant, bar or any
 To calculate the tip per person, as well as the total cost per person, the ultimate tip calculator app takes into account the cost of the service, the number of people, and the percentage of tips selected. The tip calculator is the simple way to calculate the total sum that includes dinner plus tip.
 
 //-----------------------------------------------------------------------------------------------------------------------------//
-la ccalculadora de propinas es una herramienta útil para cualquier persona que vaya a un restaurante, bar o cualquier otro lugar donde se anticipen propinas. Es fácil cometer errores cuando calculamos las cosas en nuestra mente. Calcule su propina con nuestra herramienta para ahorrar tiempo y garantizar la precisión
+la calculadora de propinas es una herramienta útil para cualquier persona que vaya a un restaurante, bar o cualquier otro lugar donde se anticipen propinas. Es fácil cometer errores cuando calculamos las cosas en nuestra mente. Calcule su propina con nuestra herramienta para ahorrar tiempo y garantizar la precisión
 
 Para calcular la propina por persona, así como el costo total por persona, la aplicación de calculadora de propinas definitiva tiene en cuenta el costo del servicio, la cantidad de personas y el porcentaje de propinas seleccionado. La calculadora de propinas es la forma sencilla de calcular la suma total que incluye la cena más la propina.
 
