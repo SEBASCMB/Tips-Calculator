@@ -1,14 +1,20 @@
-# Tips-Calculator😁
+# Cálculo de Propinas
+Este es un simple proyecto de una aplicación de cálculo de propinas, escrito en HTML, CSS y JavaScript. La aplicación permite al usuario calcular la propina y el total a pagar, basado en la cantidad de la cuenta y el porcentaje de propina deseado.
 
-the tip calculator is a useful tool for anyone going to a restaurant, bar or any other place where tips are anticipated. It's easy to make mistakes when we calculate things in our minds. Calculate your tip with our tool to save time and ensure accuracy
+# Características
+* Interfaz de usuario intuitiva y fácil de usar.
+* Calcula la propina y el total a pagar.
+* Permite seleccionar entre porcentajes de propina preestablecidos (5%, 10%, 15%, 25%) o ingresar un porcentaje de propina personalizado.
+* Permite ingresar el número de personas que comparten la cuenta.
+* Botón de reinicio para reiniciar los valores a los valores predeterminados.
+# Instalación
+Para utilizar esta aplicación, descargue o clone el repositorio y abra el archivo HTML en su navegador. También necesitará tener acceso a los archivos CSS y JavaScript para el correcto funcionamiento de la aplicación.
 
-To calculate the tip per person, as well as the total cost per person, the ultimate tip calculator app takes into account the cost of the service, the number of people, and the percentage of tips selected. The tip calculator is the simple way to calculate the total sum that includes dinner plus tip.
-
-# Español😁
-
-la calculadora de propinas es una herramienta útil para cualquier persona que vaya a un restaurante, bar o cualquier otro lugar donde se anticipen propinas. Es fácil cometer errores cuando calculamos las cosas en nuestra mente. Calcule su propina con nuestra herramienta para ahorrar tiempo y garantizar la precisión
-
-Para calcular la propina por persona, así como el costo total por persona, la aplicación de calculadora de propinas definitiva tiene en cuenta el costo del servicio, la cantidad de personas y el porcentaje de propinas seleccionado. La calculadora de propinas es la forma sencilla de calcular la suma total que incluye la cena más la propina.
-
-![HTML5_badge](https://user-images.githubusercontent.com/109773982/184254975-42cb8868-82f5-4a60-9d13-f9d271c1cb72.png)![SeekPng com_sass-logo-png_3772047](https://user-images.githubusercontent.com/109773982/184255184-17a4343a-0d94-4860-b386-d42e653c8f30.png)
-![javascript-39400](https://user-images.githubusercontent.com/109773982/184255287-734d16cf-bbc8-402c-9ff5-1515b8214431.png)
+# Uso
+Ingresar la cantidad de la cuenta en el campo de entrada de la cuenta.
+Seleccione el porcentaje de propina deseado o ingrese un porcentaje personalizado en el campo de entrada personalizado.
+Ingresar el número de personas que comparten la cuenta.
+La propina y el total a pagar se mostrarán en la sección de resultados.
+Presione el botón de reinicio para reiniciar los valores a los valores predeterminados.
+# Contribución
+Este proyecto es de código abierto y se aceptan contribuciones. Si desea colaborar, por favor envíe una solicitud de extracción.
