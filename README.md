@@ -10,7 +10,7 @@ Este es un simple proyecto de una aplicación de cálculo de propinas, escrito e
 # Instalación
 Para utilizar esta aplicación, descargue o clone el repositorio y abra el archivo HTML en su navegador. También necesitará tener acceso a los archivos CSS y JavaScript para el correcto funcionamiento de la aplicación.
 
-# Uso
+# Usos
 Ingresar la cantidad de la cuenta en el campo de entrada de la cuenta.
 Seleccione el porcentaje de propina deseado o ingrese un porcentaje personalizado en el campo de entrada personalizado.
 Ingresar el número de personas que comparten la cuenta.
