@@ -19,4 +19,3 @@ Presione el botón de reinicio para reiniciar los valores a los valores predeter
 # Contribución
 Este proyecto es de código abierto y se aceptan contribuciones. Si desea colaborar, por favor envíe una solicitud de extracción.
 
-# License
