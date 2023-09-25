@@ -18,3 +18,5 @@ La propina y el total a pagar se mostrarán en la sección de resultados.
 Presione el botón de reinicio para reiniciar los valores a los valores predeterminados.
 # Contribución
 Este proyecto es de código abierto y se aceptan contribuciones. Si desea colaborar, por favor envíe una solicitud de extracción.
+
+# License
